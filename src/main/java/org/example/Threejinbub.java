@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Threejinbub {
     public int solution(int n) {
         int answer = 0;
         List<Integer> list = new ArrayList<>();
